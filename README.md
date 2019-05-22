@@ -4,7 +4,7 @@
 ## Installation
 
 ```
-{link}
+git clone https://github.com/w0rmkit/w0rm-proxy.git
 ```
 
 ## Usage
